@@ -1,3 +1,4 @@
+## Falta actualizar este proyecto, seguridad, base de datos, conexiones externas , transacciones 
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
